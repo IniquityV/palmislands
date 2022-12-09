@@ -1,0 +1,6 @@
+name: PalmIslands
+version: 1.0.0
+main: me.vickrum.island.Main
+authors: vickrum, Jordan
+description: Custom Island plugin
+depend: [MassiveCore]
